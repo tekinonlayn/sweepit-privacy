@@ -1,9 +1,9 @@
 {
   "banner": {
     "active": true,
-    "title": "🎉 Banner Sistemi Aktif!",
-    "subtitle": "Özel günlerde buradan duyurular yapabilirsiniz",
-    "background_color": "#FFE082",
-    "valid_until": "2026-12-31T23:59:59Z"
+    "title": "🎄 Yılbaşı Kutlu Olsun!",
+    "subtitle": "2026'ya temiz bir galeri ile girin",
+    "background_color": "#C8E6C9",
+    "valid_until": "2026-01-05T23:59:59Z"
   }
 }
