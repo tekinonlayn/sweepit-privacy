@@ -1,9 +1,9 @@
 {
   "banner": {
     "active": true,
-    "title": "🎉 Test Banner Aktif!",
-    "subtitle": "Özel günlerde burada mesajlar göreceksiniz",
-    "background_color": "#FFF3E0",
+    "title": "🎉 Banner Sistemi Aktif!",
+    "subtitle": "Özel günlerde buradan duyurular yapabilirsiniz",
+    "background_color": "#FFE082",
     "valid_until": "2026-12-31T23:59:59Z"
   }
 }
