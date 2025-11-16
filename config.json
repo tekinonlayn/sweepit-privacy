@@ -1,10 +1,9 @@
 {
   "banner": {
-    "active": false,
-    "title": "Yeni Yıl Kutlu Olsun! 🎉",
-    "subtitle": "2026'da da fotoğraflarınızı temiz tutun",
-    "image_url": "https://example.com/newyear-icon.png",
+    "active": true,
+    "title": "🎉 Test Banner Aktif!",
+    "subtitle": "Özel günlerde burada mesajlar göreceksiniz",
     "background_color": "#FFF3E0",
-    "valid_until": "2026-01-05T23:59:59Z"
+    "valid_until": "2026-12-31T23:59:59Z"
   }
 }
